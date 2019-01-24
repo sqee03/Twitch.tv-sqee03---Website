@@ -1,1 +1,1 @@
-Twitch.tv-sqee03---Website
+Twitch.tv/sqee03 - Website

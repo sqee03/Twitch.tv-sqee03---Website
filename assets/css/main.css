@@ -2002,7 +2002,7 @@
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
 		background: #35b88f url("images/banner.svg") bottom center no-repeat;
-		padding: 5em 0 5em 0;
+		padding: 5em 4em;
 		margin: 0;
 		background-size: 125% auto;
 	}
@@ -2024,6 +2024,7 @@
 
 		#banner p {
 			margin: 0;
+			margin-bottom: 0.75em;
 		}
 
 		#banner footer {
